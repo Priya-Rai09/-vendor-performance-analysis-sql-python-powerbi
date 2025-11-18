@@ -17,7 +17,7 @@ _Analyzing vendor efficiency and profitability to support strategic purchasing a
 - <a href="#dashboard">Dashboard</a>
 - <a href="#how-to-run-this-project">How to Run This Project</a>
 - <a href="#final-recommendations">Final Recommendations</a>
-- <a href="#author--contact">Author & Contact</a>
+
 
 ---
 <h2><a class="anchor" id="overview"></a>Overview</h2>
@@ -155,8 +155,5 @@ python scripts/get_vendor_summary.py
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Ayushi Mishra**  
-Data Analyst  
-📧 Email: techclasses0810@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ayushi-mishra-30813b174/)  
-🔗 [Portfolio](https://www.youtube.com/@techclasses0810/)
+
+
